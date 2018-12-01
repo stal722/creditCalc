@@ -1,0 +1,12 @@
+.graph{
+	position: relative;
+	width: 50%;
+	height: 100px;
+}
+.col {
+	position: absolute;
+	width: 100px;
+	bottom: 0px;
+	border: 1px solid green;
+	background: green;
+}
